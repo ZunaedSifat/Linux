@@ -19,4 +19,11 @@
 # git commit -a -m "message"
 # git log
 # echo "this will show all the commit"
+# git branch firstbranch
+# echo cretes a branch
+# git checkout 'firstbranch'
+# echo switches to 'firstbranch'
+# echo come back to master branch
+# git merge 'name of the branch'
+# whenever you are merging, stay checked out in the destination branch
 # 
