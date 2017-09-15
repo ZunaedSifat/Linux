@@ -1,0 +1,22 @@
+# cd "project folder"
+# git init
+# git config --global user.name "Zunaed Karim Sifat"
+# git config --global user.email "zunaed.sifat@gmail.com"
+# > .gitignore
+# echo "create github repository and find the link clicking on the option'clone or download'"
+# git remote add origin "link of github repository"
+# git pull origin master
+# > file1
+# git status
+# git add file1
+# git commit -m "file1 added by sifat"
+# echo "write something on the file"
+# > file2
+# > file3
+# git status
+# echo "this will show that you that you made some changes but not commited that"
+# git add *
+# git commit -a -m "message"
+# git log
+# echo "this will show all the commit"
+# 
