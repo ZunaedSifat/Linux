@@ -26,4 +26,12 @@
 # echo come back to master branch
 # git merge 'name of the branch'
 # whenever you are merging, stay checked out in the destination branch
-# 
+# git pull = git fetch + git merge
+# ssh-keygen
+# ssh -T git@github.com
+# git checkout firstbranch
+# git push origin firstbranch
+# git log
+# echo find the hexadecimal_code of the commit you wanna go back to
+# git checkout hexadecimal_code filename
+# this goes back to the last commit
